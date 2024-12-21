@@ -5,6 +5,8 @@ The "Blockchain-Based Language Games" project introduces a decentralized applica
 
 ## Contract Address
 0x59d05365A17B21C54e61FA6b57358abe6Fd8fA7d
+![image](https://github.com/user-attachments/assets/b377bc70-580b-4c95-b1a5-93cabdceaed5)
+
 
 ## Project Vision
 The vision of this project is to create a fun, engaging, and decentralized ecosystem for language enthusiasts worldwide. By combining gamification with the security and transparency of blockchain, we aim to foster a collaborative and competitive environment for language learning and translation validation.
